@@ -1,0 +1,97 @@
+plotters:
+  -
+    name: "do-not-use"
+    enable: false
+    begin: 0
+    end: 0
+    max_tib: 0
+  -
+    name: "plotter-1"
+    enable: true
+    begin: 1
+    end: 6
+    max_tib: 30
+  -
+    name: "plotter-2"
+    enable: true
+    begin: 7
+    end: 12
+    max_tib: 30
+  -
+    name: "plotter-3"
+    enable: true
+    begin: 13
+    end: 18
+    max_tib: 30
+  -
+    name: "plotter-4"
+    enable: true
+    begin: 19
+    end: 24
+    max_tib: 30
+  -
+    name: "plotter-5"
+    enable: true
+    begin: 25
+    end: 30
+    max_tib: 30
+  -
+    name: "plotter-6"
+    enable: true
+    begin: 31
+    end: 36
+    max_tib: 30
+  -
+    name: "plotter-7"
+    enable: true
+    begin: 37
+    end: 42
+    max_tib: 30
+  -
+    name: "plotter-8"
+    enable: true
+    begin: 43
+    end: 48
+    max_tib: 30
+  -
+    name: "plotter-9"
+    enable: true
+    begin: 49
+    end: 54
+    max_tib: 30
+  -
+    name: "plotter-10"
+    enable: false
+    begin: 55
+    end: 60
+    max_tib: 30
+  -
+    name: "plotter-11"
+    enable: false
+    begin: 61
+    end: 66
+    max_tib: 30
+  -
+    name: "plotter-12"
+    enable: false
+    begin: 67
+    end: 72
+    max_tib: 30
+  -
+    name: "plotter-13"
+    enable: false
+    begin: 73
+    end: 78
+    max_tib: 30
+  -
+    name: "plotter-14"
+    enable: false
+    begin: 79
+    end: 84
+    max_tib: 30
+  -
+    name: "plotter-15"
+    enable: false
+    begin: 85
+    end: 90
+    max_tib: 30
