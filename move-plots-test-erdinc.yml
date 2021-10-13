@@ -1,8 +1,6 @@
 plotter-1:
         edu: [ 1, 2, 3, 4, 5 ]
         max_tib: 30
-        enabled: true
 plotter-2:
         edu: [ 5, 7, 8, 9, 10 ]
         max_tib: 25
-        enabled: true
