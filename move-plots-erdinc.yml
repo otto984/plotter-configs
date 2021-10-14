@@ -96,5 +96,54 @@ plotters:
     end: 90
     max_tib: 30
     
+    name: "plotter-16"
+    enable: true
+    begin: 91
+    end: 96
+    max_tib: 30
+    
+    name: "plotter-17"
+    enable: true
+    begin: 97
+    end: 102
+    max_tib: 30
+    
+     name: "plotter-18"
+    enable: true
+    begin: 79
+    end: 84
+    max_tib: 30
+  -
+    name: "plotter-19"
+    enable: true
+    begin: 85
+    end: 90
+    max_tib: 30
+    
+    name: "plotter-20"
+    enable: true
+    begin: 91
+    end: 96
+    max_tib: 30
+    
+    name: "plotter-21"
+    enable: true
+    begin: 97
+    end: 102
+    max_tib: 30
+    
+    name: "plotter-22"
+    enable: true
+    begin: 85
+    end: 90
+    max_tib: 30
+    
+    name: "plotter-23"
+    enable: true
+    begin: 91
+    end: 96
+    max_tib: 30
+    
+ 
     
     
