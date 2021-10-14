@@ -91,7 +91,10 @@ plotters:
     max_tib: 30
   -
     name: "plotter-15"
-    enable: false
+    enable: true
     begin: 85
     end: 90
     max_tib: 30
+    
+    
+    
