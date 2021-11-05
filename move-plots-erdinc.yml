@@ -1,5 +1,5 @@
 plotter-1:
-        edu: [ 1, 57, 3, 4 ]
+        edu: [ 1, 2, 3, 4 ]
         max_tib: 40
 plotter-2:
         edu: [ 5, 6, 7, 8 ]
@@ -41,5 +41,5 @@ plotter-14:
         edu: [ 53, 54, 55, 56 ]
         max_tib: 40
 plotter-15:
-        edu: [ 58, 59, 60, 61 ]
+        edu: [ 57, 58, 59, 60, 61 ]
         max_tib: 40
