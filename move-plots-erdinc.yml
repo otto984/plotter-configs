@@ -42,4 +42,4 @@ plotter-14:
         max_tib: 40
 plotter-15:
         edu: [ 57, 58, 59, 60, 61 ]
-        max_tib: 40
+        max_tib: 80
