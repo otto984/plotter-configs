@@ -8,7 +8,7 @@ plotter-3:
         edu: [ 9, 10, 11, 12 ]
         max_tib: 60
 plotter-4:
-        edu: [ 13, 14, 15, 16 ]
+        edu: [ 13, 14, 15, 16, 62 ]
         max_tib: 60
 plotter-5:
         edu: [ 17, 18, 19, 20 ]
@@ -26,16 +26,16 @@ plotter-9:
         edu: [ 33, 34, 35, 36 ]
         max_tib: 60
 plotter-10:
-        edu: [ 37, 38, 39, 40 ]
+        edu: [ 37, 38, 39, 40, 63 ]
         max_tib: 60
 plotter-11:
-        edu: [ 41, 42, 43, 44 ]
+        edu: [ 41, 42, 43, 44, 64 ]
         max_tib: 60
 plotter-12:
-        edu: [ 45, 46, 47, 48 ]
+        edu: [ 45, 46, 47, 48, 65 ]
         max_tib: 60
 plotter-13:
-        edu: [ 49, 51, 51, 52 ]
+        edu: [ 49, 51, 51, 52, 66 ]
         max_tib: 60
 plotter-14:
         edu: [ 53, 54, 55, 56 ]
